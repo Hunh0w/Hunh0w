@@ -14,7 +14,7 @@ I'm a Polytech student in IT Development and Operational Exploitation
 <a href="https://www.linkedin.com/in/vincent-font-4624661a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://discord.gg/sGXUXtf6G9">
+<a href="#">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 

@@ -8,7 +8,7 @@ So I'm an Apprentice Software Engineer at Schlumberger 💖
 
 # 💫 About Me :
 
-🌱 I’m currently learning React, SolidJS, Kubernetes
+🌱 I’m currently learning Kubernetes, Azure..
 
 📫 How to reach me: vincent.font@etu.umontpellier.fr
 

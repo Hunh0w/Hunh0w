@@ -3,7 +3,7 @@
 I'm a Polytech student in IT Development and Operational Exploitation
 </h3>
 <h3 align="center">
-So I'm an Apprentice Software Engineer at Schlumberger 💖
+I'm an Apprentice Software Engineer at Schlumberger 💖
 </h3>
 
 # 💫 About Me :
